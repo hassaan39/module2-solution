@@ -1,14 +1,16 @@
-*{ box-sizing:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box;}
+*{ box-sizing:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; margin:0; padding:0;}
 
 body { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 14px;}
 
 .row{ margin:0 -15px;}
 .container{ margin:0 auto; width:1200px; padding:0 15px;}
 
-
+h1{ font-size: 36px;}
+h2{ font-size: 30px; }
 
 .wrapper{ padding:50px 0;}
 .wrapper h1{ margin:0 0 40px;}
+
 .pink{ background:#d59898;}
 .red{ background:#c14543; color:#fff;}
 .yellow{ background:#e5d198;}

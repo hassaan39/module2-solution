@@ -1,0 +1,8 @@
+.wrapper{ padding:50px 0;}
+.wrapper h1{ margin:0 0 40px;}
+.pink{ background:#d59898;}
+.red{ background:#c14543; color:#fff;}
+.yellow{ background:#e5d198;}
+
+.content{ position:relative; background:#999; padding:50px 15px 15px; border:2px solid #000;}
+.content h2{ position:absolute; top:0; right:0; width:auto; padding:0px 50px; line-height:40px; margin:0; border-width:0 0 2px 2px; border-style:solid; border-color:#000;}

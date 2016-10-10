@@ -7,8 +7,8 @@
 
 <title></title>
 
-
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="bootstrap.min.css">
+<link rel="stylesheet" href="styles.css">
 
 <!--[if lt IE 9]>
 <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -20,13 +20,31 @@
 
 <div class="wrapper">
 	
+    <h1 class="text-center">Our Menu</h1>
     
+    <div class="container">
+    	<div class="row">
+        	<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            	<div class="content">
+	            	<h2 class="text-center pink">Chicken</h2>
+    	            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, tincidunt id ipsum id, convallis blandit massa. Praesent egestas molestie nunc, a blandit lorem semper eget. Aliquam auctor urna eget nisl elementum efficitur. Sed ornare sodales magna, in feugiat felis varius et. Praesent ultricies at erat ac dapibus. Donec neque eros, rhoncus at elit sit amet, malesuada placerat mauris. Sed porttitor est sed nisl vestibulum venenatis. Ut consequat orci a erat placerat pellentesque. Donec ullamcorper efficitur lacus, eget lobortis magna dictum non. Nullam quis mauris non nunc ultricies fermentum. Nam consectetur, ipsum quis eleifend commodo, urna turpis blandit nulla, sed bibendum ex massa a mauris. Curabitur et diam at urna feugiat commodo.</p>
+            	</div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            	<div class="content">
+                	<h2 class="text-center red">Beef</h2>
+                	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, tincidunt id ipsum id, convallis blandit massa. Praesent egestas molestie nunc, a blandit lorem semper eget. Aliquam auctor urna eget nisl elementum efficitur. Sed ornare sodales magna, in feugiat felis varius et. Praesent ultricies at erat ac dapibus. Donec neque eros, rhoncus at elit sit amet, malesuada placerat mauris. Sed porttitor est sed nisl vestibulum venenatis. Ut consequat orci a erat placerat pellentesque. Donec ullamcorper efficitur lacus, eget lobortis magna dictum non. Nullam quis mauris non nunc ultricies fermentum. Nam consectetur, ipsum quis eleifend commodo, urna turpis blandit nulla, sed bibendum ex massa a mauris. Curabitur et diam at urna feugiat commodo.</p>
+            	</div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            	<div class="content">
+                	<h2 class="text-center yellow">Sush!</h2>
+                	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lorem nisl, tincidunt id ipsum id, convallis blandit massa. Praesent egestas molestie nunc, a blandit lorem semper eget. Aliquam auctor urna eget nisl elementum efficitur. Sed ornare sodales magna, in feugiat felis varius et. Praesent ultricies at erat ac dapibus. Donec neque eros, rhoncus at elit sit amet, malesuada placerat mauris. Sed porttitor est sed nisl vestibulum venenatis. Ut consequat orci a erat placerat pellentesque. Donec ullamcorper efficitur lacus, eget lobortis magna dictum non. Nullam quis mauris non nunc ultricies fermentum. Nam consectetur, ipsum quis eleifend commodo, urna turpis blandit nulla, sed bibendum ex massa a mauris. Curabitur et diam at urna feugiat commodo.</p>
+            	</div>
+            </div>
+        </div>
+    </div>
     
 </div>
-
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>
